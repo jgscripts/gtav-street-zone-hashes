@@ -3,6 +3,7 @@
 0xD39FE932 = Armadillo Ave
 0xB76E170F = Calafia Rd
 0x5AA123E0 = Cassidy Trail
+0x261C80DB = Cascabel Ave
 0xEA41FBE8 = Cat-Claw Ave
 0xEF17EFC8 = Chianski Passage
 0xF5196793 = Cholla Rd
@@ -11,8 +12,9 @@
 0x953094ED = East Joshua Road
 0xCB000216 = El Gordo Dr
 0xF641831C = Fort Zancudo Approach Rd
-0x5DCE4604 = Grapeseed Ave
+0x4DCE72D8 = Grapeseed Ave
 0x3132B9A5 = Grapeseed Main St
+0xCD357E0E = Ineseno Road
 0x8F9D12E7 = Joad Ln
 0x0A5BFF42 = Joshua Rd
 0xDE37DA0C = Lesbos Ln
@@ -21,7 +23,7 @@
 0x594944F9 = Meringue Ln
 0x906B3D92 = Mountain View Dr
 0x63F44C25 = Niland Ave
-0xCDB72B98 = North Calafia Way
+0x269FDEE5 = North Calafia Way
 0x245499BF = Nowhere Rd
 0xF8D909E5 = Paleto Blvd
 0x155FBE2B = Panorama Dr
@@ -49,6 +51,7 @@
 0x78905544 = Bait St
 0x15E466FD = Banham Canyon Dr
 0x26944B16 = Barbareno Rd
+0x6F927644 = Bay City Ave
 0xEDC3B8F4 = Bay City Incline
 0xF5EFE777 = Baytree Canyon Rd
 0xB7229694 = Boulevard Del Perro
@@ -94,6 +97,7 @@
 0xE94A6DDC = Forum Dr
 0xD9B72921 = Fudge Ln
 0x85F5588B = Galileo Rd
+0xD5A607F8 = Gentry Lane
 0x534D8027 = Ginger St
 0xC431BCEE = Glory Way
 0x7F84CC28 = Goma St
@@ -107,9 +111,9 @@
 0x65BCFFA3 = Hillcrest Ave
 0xA1F822A2 = Hillcrest Ridge Access Rd
 0xC4A300EF = Imagination Court
-0x5970A42E = Innocence Blvd
+0x4B5B59A7 = Innocence Blvd
 0x5FEE2991 = Invention Court
-0xD7A97745 = Jamestown St
+0x661AA779 = Jamestown St
 0xFB90B746 = Kimble Hill Dr
 0xCC628804 = Kortz Dr
 0x98295423 = Labor Pl
@@ -117,7 +121,7 @@
 0xF0089E63 = Las Lagunas Blvd
 0x2F26BBD7 = Liberty St
 0xFF521E51 = Lindsay Circus
-0x5434BC79 = Little Bighorn Ave
+0x9DB39520 = Little Bighorn Ave
 0x64306156 = Macdonald St
 0xFF357E7B = Mad Wayne Thunder Dr
 0xCF1A660B = Magellan Ave
@@ -125,8 +129,8 @@
 0x4A3712C2 = Marlowe Dr
 0x7EFD9AFE = Melanoma St
 0x639007F6 = Meteor St
-0x6EC5EEBC = Milton Road
-0xD83D2419 = Mirror Park Blvd
+0xBDB7B4F7 = Milton Rd
+0x1FA2C931 = Mirror Park Blvd
 0x0CC8AAE6 = Mirror Pl
 0xC122D85F = Morningwood Blvd
 0xD3CD9C6E = Mt Haan Dr
@@ -142,7 +146,7 @@
 0x59920DAD = North Rockford Dr
 0x20101F69 = Occupation Ave
 0xB87FAA60 = Orchardville Ave
-0xE1983DFE = Palomino Ave
+0x520BFB49 = Palomino Ave
 0xA5883BDE = Peaceful St
 0x909B5591 = Perth St
 0xDFBD6B64 = Picture Perfect Drive
@@ -161,9 +165,9 @@
 0xB4A79707 = Sam Austin Dr
 0xF2C73716 = San Andreas Ave
 0xDA9DCCFB = San Vitus Blvd
-0x6A4BA3CC = Sandcastle Way
+0x502503F = Sandcastle Way
 0x003F6701 = Senora Rd
-0xD2071778 = Senora Way
+0xC7A93BB0 = Senora Way
 0xD529ED93 = Shank St
 0x7727141A = Signal St
 0x5C3E7D79 = Sinner St
@@ -183,6 +187,7 @@
 0x1EBDEABC = Tongva Dr
 0x44A9B903 = Tower Way
 0x332A2A65 = Tug St
+0x85F57AFA = O'Neil Way
 0x84B5FCB9 = Vespucci Blvd
 0xC527457D = Vinewood Blvd
 0xD513F002 = Vinewood Park Dr
@@ -195,12 +200,13 @@
 0xCE9D4092 = York St
 0x0F020961 = Zancudo Barranca
 0x96B41893 = Zancudo Rd
-0x5FA0E6BF = Del Perro Freeway
+0x12057A99 = Del Perro Fwy
 0x2E49B265 = Elysian Fields Fwy
 0x4DFC3A0B = La Puerta Fwy
-0x514F7C6D = Los Santos Freeway
-0xE67489E0 = Olympic Fwy
+0xAC9F694E = Los Santos Freeway
+0x192E8516 = Olympic Fwy
 0x9B01C923 = Senora Fwy
 0xF83C4076 = Palomino Freeway
-0x540B5C61 = Great Ocean Highway
+0xE7932A4B = Great Ocean Hwy
 0x73F16A64 = Cavalry Blvd
+0xF5BF6BDD = Runway1
