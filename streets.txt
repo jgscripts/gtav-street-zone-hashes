@@ -112,6 +112,7 @@
 0x65BCFFA3 = Hillcrest Ave
 0xA1F822A2 = Hillcrest Ridge Access Rd
 0xC4A300EF = Imagination Court
+0x434CC15C = Integrity Way
 0x4B5B59A7 = Innocence Blvd
 0x5FEE2991 = Invention Court
 0x661AA779 = Jamestown St
@@ -205,6 +206,7 @@
 0x0F020961 = Zancudo Barranca
 0x96B41893 = Zancudo Rd
 0x12057A99 = Del Perro Fwy
+0xC8690C80 = Del Perro Fwy
 0x2E49B265 = Elysian Fields Fwy
 0x4DFC3A0B = La Puerta Fwy
 0xAC9F694E = Los Santos Freeway
