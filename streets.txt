@@ -1,3 +1,4 @@
+0x4B7B2734 = Ace Jones Dr
 0x7EC39AE2 = Algonquin Blvd
 0x92E1C090 = Alhambra Dr
 0xD39FE932 = Armadillo Ave
@@ -7,7 +8,7 @@
 0xEA41FBE8 = Cat-Claw Ave
 0xEF17EFC8 = Chianski Passage
 0xF5196793 = Cholla Rd
-0xED5E581D = Cholla Springs Ave
+0x36A6BE4B = Cholla Springs Ave
 0x8A00A702 = Duluoz Ave
 0x953094ED = East Joshua Road
 0xCB000216 = El Gordo Dr
@@ -117,6 +118,7 @@
 0xFB90B746 = Kimble Hill Dr
 0xCC628804 = Kortz Dr
 0x98295423 = Labor Pl
+0x973B8B6 = Laguna Pl
 0x5E4F2EE7 = Lake Vinewood Dr
 0xF0089E63 = Las Lagunas Blvd
 0x2F26BBD7 = Liberty St
@@ -143,15 +145,16 @@
 0x995C30AA = Normandy Dr
 0xDE65DFA8 = North Archer Ave
 0xA2F6CA31 = North Conker Ave
+0xB74C0D46 = North Sheldon Ave
 0x59920DAD = North Rockford Dr
 0x20101F69 = Occupation Ave
 0xB87FAA60 = Orchardville Ave
 0x520BFB49 = Palomino Ave
 0xA5883BDE = Peaceful St
 0x909B5591 = Perth St
-0xDFBD6B64 = Picture Perfect Drive
+0x1919AEB5 = Picture Perfect Drive
 0x7C7282C1 = Plaice Pl
-0xE71B6E5C = Playa Vista
+0x66006A97 = Playa Vista
 0xCCD0D983 = Popular St
 0x7D75C728 = Portola Dr
 0xF959D26E = Power St
@@ -188,13 +191,14 @@
 0x44A9B903 = Tower Way
 0x332A2A65 = Tug St
 0x85F57AFA = O'Neil Way
+0xD7C3E89F = Utopia Gardens
 0x84B5FCB9 = Vespucci Blvd
 0xC527457D = Vinewood Blvd
 0xD513F002 = Vinewood Park Dr
 0x43CE38FF = Vitus St
 0x75723A2C = Voodoo Place
 0x983A7D65 = West Eclipse Blvd
-0xF93AC3E0 = West Mirror Drive
+0xB23474 = West Mirror Drive
 0xFFFC76B4 = Whispymound Dr
 0xB4BB47B3 = Wild Oats Dr
 0xCE9D4092 = York St
@@ -207,6 +211,9 @@
 0x192E8516 = Olympic Fwy
 0x9B01C923 = Senora Fwy
 0xF83C4076 = Palomino Freeway
+0xF5DE6511 = Palomino Fwy
 0xE7932A4B = Great Ocean Hwy
 0x73F16A64 = Cavalry Blvd
 0xF5BF6BDD = Runway1
+0x7999837 = Route 68
+
